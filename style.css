@@ -1,12 +1,12 @@
 body{
-	height: 800px;
-	background-image: url(images/table.jpg);
+	height: 700px;
+	background-image: url(images/wallpaper1.jpg);
 	background-size: 100% 100%;
 	
 }
 
 .thimble_img{
-  margin-top: 70px;
+ padding-top: 250px;
 
 }
 
@@ -28,7 +28,3 @@ body{
 	position: relative;
 }
 
-/* .boll{
-	position: relative;
-	display: none;
-}*/

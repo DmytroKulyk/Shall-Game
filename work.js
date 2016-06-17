@@ -91,8 +91,8 @@ clicks--;
       });
 
      }	
-    $('.scores').html("Score: "+score);
-    $('.tryes').html("Tryes: "+tryes);
+    $('.scores').html("Scores: "+score);
+    $('.tryes').html("Attempts: "+tryes);
   });
 
 
