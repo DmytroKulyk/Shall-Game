@@ -7,13 +7,11 @@ body{
 
 .thimble_img{
  padding-top: 220px;
-
 }
 
 .thimble1{
 	margin: 15px;
 	position: relative;
-
 }
 .thimble2{
 	margin: 15px;
@@ -28,3 +26,8 @@ body{
 	position: relative;
 }
 
+@media (max-width: 768px){
+ .thimble_img{
+ padding-top: 120px;
+ }
+}
